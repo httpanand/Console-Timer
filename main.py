@@ -19,5 +19,3 @@ while True:
     if(m == 60):
         m = 0
         h = h+1
-
-
